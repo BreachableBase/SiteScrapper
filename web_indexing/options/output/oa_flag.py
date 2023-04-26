@@ -1,0 +1,1 @@
+#     -oA     | output to all file types supported
